@@ -1,8 +1,9 @@
 part of ddd;
 
-abstract class Entity<T extends ValueObject> {
+abstract class Entity<T extends ValueObject> implements Identifiable<T> {
   const Entity(this.id);
 
+  @override
   final T id;
 
   @override

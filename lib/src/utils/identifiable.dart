@@ -1,4 +1,4 @@
-part of cache;
+part of utils;
 
 abstract class Identifiable<T> {
   T get id;
