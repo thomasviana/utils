@@ -12,5 +12,4 @@ export 'package:rxdart/rxdart.dart';
 export 'package:shared_preferences/shared_preferences.dart';
 
 part 'src/cache/cache.dart';
-part 'src/cache/identifiable.dart';
 part 'src/cache/persisted_cache.dart';
