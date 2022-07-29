@@ -1,4 +1,4 @@
-part of utils;
+part of http;
 
 class HttpException implements IOException {
   final int statusCode;

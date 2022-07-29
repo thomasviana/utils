@@ -1,4 +1,4 @@
-part of utils;
+part of cache;
 
 ///
 abstract class BasePersistedCache<T> extends Cache<T> {
