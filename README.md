@@ -13,6 +13,8 @@ and the Flutter guide for
 
 This is a package that provides some networking and DDD utilities. 
 
+Version 1.0.0-dev.2
+
 ## Features
 
 TODO: List what your package can do. Maybe include images, gifs, or videos.
