@@ -1,6 +1,6 @@
 name: utils
 description: A new Flutter package project.
-version: 1.0.0-dev.2
+version: 1.0.0-dev.3
 
 environment:
  sdk: ">=2.17.6 <3.0.0"

@@ -13,7 +13,7 @@ and the Flutter guide for
 
 This is a package that provides some networking and DDD utilities. 
 
-Version 1.0.0-dev.2
+Version 1.0.0-dev.3
 
 ## Features
 
